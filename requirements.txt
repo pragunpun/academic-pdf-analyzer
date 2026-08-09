@@ -1,8 +1,7 @@
-Streamlit
-Pandas
-NumPy 
-PyMuPDF(fitz)
-scikit-learn(TF-IDF)
-Regular Expressions (re) 
-NetworkX(Graph generation)
-PyVis(Graph visualization) 
+streamlit
+pandas
+numpy
+PyMuPDF (fitz)
+scikit-learn (TF-IDF)
+networkx 
+pyvis
