@@ -1,8 +1,10 @@
+# Academic PDF Analyzer
+
 An NLP-based Streamlit application that analyzes academic PDF documents and provides useful insights for students.
 
 The application extracts text from uploaded PDF files and processes the content to provide keywords, headings, summaries, exam-oriented analysis, generated questions and a knowledge graph.
 
-Technologies Used:
+## Technologies Used:
 - Python – Programming language
 - Streamlit – User interface
 - Pandas – Data handling
